@@ -1,0 +1,254 @@
+points_file_name: 25_march
+points:
+- name: home
+  date_time: 25mar_1157
+  sequence: 1
+  nature: home
+  is_tf: false
+  is_calibrated: false
+  joints_values:
+    joint1: -8.901200000000001e-05
+    joint2: -5.7596e-05
+    joint3: 0.000136136
+    joint4: -7.539822e-05
+    joint5: -0.00013823007
+    joint6: -1.25663706e-05
+  coordinate:
+    x: -0.01
+    y: -28.15
+    z: 135.7
+    r: 90
+    p: -0.02
+    w: 0.01
+  is_editable: true
+- name: intiPoint
+  date_time: 15sep_1022
+  sequence: 1
+  nature: intiPoint
+  is_tf: false
+  is_calibrated: false
+  is_editable: true
+  joints_values:
+    joint1: 0
+    joint2: 0
+    joint3: 0
+    joint4: 0
+    joint5: 0
+    joint6: 0
+  coordinate:
+    x: 0
+    y: 0
+    z: 0
+    r: 0
+    p: 0
+    w: 0
+- name: decisionPoint
+  date_time: 15sep_1023
+  sequence: 1
+  nature: decisionPoint
+  is_tf: false
+  is_calibrated: false
+  is_editable: true
+  joints_values:
+    joint1: 0
+    joint2: 0
+    joint3: 0
+    joint4: 0
+    joint5: 0
+    joint6: 0
+  coordinate:
+    x: 0
+    y: 0
+    z: 0
+    r: 0
+    p: 0
+    w: 0
+- name: beforeConv
+  date_time: 15sep_1024
+  sequence: 1
+  nature: beforeConv
+  is_tf: false
+  is_calibrated: false
+  is_editable: true
+  joints_values:
+    joint1: 0
+    joint2: 0
+    joint3: 0
+    joint4: 0
+    joint5: 0
+    joint6: 0
+  coordinate:
+    x: 0
+    y: 0
+    z: 0
+    r: 0
+    p: 0
+    w: 0
+- name: pickPoint
+  date_time: 15sep_1024
+  sequence: 1
+  nature: pickPoint
+  is_tf: false
+  is_calibrated: false
+  is_editable: true
+  joints_values:
+    joint1: 0
+    joint2: 0
+    joint3: 0
+    joint4: 0
+    joint5: 0
+    joint6: 0
+  coordinate:
+    x: 0
+    y: 0
+    z: 0
+    r: 0
+    p: 0
+    w: 0
+- name: afterPick
+  date_time: 15sep_1024
+  sequence: 1
+  nature: afterPick
+  is_tf: false
+  is_calibrated: false
+  is_editable: true
+  joints_values:
+    joint1: 0
+    joint2: 0
+    joint3: 0
+    joint4: 0
+    joint5: 0
+    joint6: 0
+  coordinate:
+    x: 0
+    y: 0
+    z: 0
+    r: 0
+    p: 0
+    w: 0
+- name: beforeCnc
+  date_time: 15sep_1024
+  sequence: 1
+  nature: beforeCnc
+  is_tf: false
+  is_calibrated: false
+  is_editable: true
+  joints_values:
+    joint1: 0
+    joint2: 0
+    joint3: 0
+    joint4: 0
+    joint5: 0
+    joint6: 0
+  coordinate:
+    x: 0
+    y: 0
+    z: 0
+    r: 0
+    p: 0
+    w: 0
+- name: placePoint
+  date_time: 15sep_1024
+  sequence: 1
+  nature: placePoint
+  is_tf: false
+  is_calibrated: false
+  is_editable: true
+  joints_values:
+    joint1: 0
+    joint2: 0
+    joint3: 0
+    joint4: 0
+    joint5: 0
+    joint6: 0
+  coordinate:
+    x: 0
+    y: 0
+    z: 0
+    r: 0
+    p: 0
+    w: 0
+- name: afterCnc
+  date_time: 15sep_1024
+  sequence: 1
+  nature: afterCnc
+  is_tf: false
+  is_calibrated: false
+  is_editable: true
+  joints_values:
+    joint1: 0
+    joint2: 0
+    joint3: 0
+    joint4: 0
+    joint5: 0
+    joint6: 0
+  coordinate:
+    x: 0
+    y: 0
+    z: 0
+    r: 0
+    p: 0
+    w: 0
+- name: towardsDrop
+  date_time: 15sep_1025
+  sequence: 1
+  nature: towardsDrop
+  is_tf: false
+  is_calibrated: false
+  is_editable: true
+  joints_values:
+    joint1: 0
+    joint2: 0
+    joint3: 0
+    joint4: 0
+    joint5: 0
+    joint6: 0
+  coordinate:
+    x: 0
+    y: 0
+    z: 0
+    r: 0
+    p: 0
+    w: 0
+- name: dropPoint
+  date_time: 15sep_1025
+  sequence: 1
+  nature: dropPoint
+  is_tf: false
+  is_calibrated: false
+  is_editable: true
+  joints_values:
+    joint1: 0
+    joint2: 0
+    joint3: 0
+    joint4: 0
+    joint5: 0
+    joint6: 0
+  coordinate:
+    x: 0
+    y: 0
+    z: 0
+    r: 0
+    p: 0
+    w: 0
+- name: yash
+  date_time: 15sep_1342
+  sequence: 1
+  nature: yash
+  is_tf: false
+  is_calibrated: false
+  is_editable: true
+  joints_values:
+    joint1: 0.0
+    joint2: 0.0
+    joint3: 0.0
+    joint4: 0.0
+    joint5: 0.0
+    joint6: 0.0
+  coordinate:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    r: 0.0
+    p: 0.0
+    w: 0.0
